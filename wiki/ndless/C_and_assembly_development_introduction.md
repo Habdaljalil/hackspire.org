@@ -110,7 +110,7 @@ Ndless comes with sample programs in the *samples/* directory of the
 Ndless SDK. We will try to build the C Hello World. Change the current
 directory of the console:
 
-`$ cd "`<my_ndless_sdk_copy>`/ndless-sdk/samples/helloworld-sdl"`
+`$ cd <my_ndless_sdk_copy>/ndless-sdk/samples/helloworld-sdl`
 
 Ndless programs are built with *GNU Make*, which is run with the command
 `make`. So let's *make* the program:
